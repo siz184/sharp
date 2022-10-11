@@ -66,7 +66,7 @@ bool stepTop(int[,] arr, int i, int j){
     return false;
 }
 
-int[,] arr = new int[5,5];
+int[,] arr = new int[5,5]; // 5 x 5 для проверки
 
 int i = 0;
 int j = -1;
